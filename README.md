@@ -5,7 +5,7 @@
 
 Veja o funcionamento do MenuSum:
 
-![Demonstração do MenuSum](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDl6bTRlZnNiYm45em0wZzJ6aDFnN2ZycGc0bTNlZGdjcjFxMmtneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pu8SF5aTBrUTQdxItd/giphy.gif)
+![Demonstração do MenuSum](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGYzcDQwYWhmcHd4ZmpldXh0aHV5Zjc1d3B5djl5NDlwZ2c4N2lkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDWARIvERexf1lvHrS/giphy.gif)
 
 - **Cálculo de Couvert Artístico**: Permite adicionar o valor do couvert artístico.
 - **Alimentação**: Adiciona o valor total gasto em alimentos e bebidas.
