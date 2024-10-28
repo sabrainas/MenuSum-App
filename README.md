@@ -5,7 +5,7 @@
 
 Veja o funcionamento do MenuSum:
 
-![Demonstração do MenuSum](https://giphy.com/embed/pu8SF5aTBrUTQdxItd)
+![Demonstração do MenuSum]([https://giphy.com/embed/pu8SF5aTBrUTQdxItd](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDl6bTRlZnNiYm45em0wZzJ6aDFnN2ZycGc0bTNlZGdjcjFxMmtneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pu8SF5aTBrUTQdxItd/giphy.gif))
 ## 🚨Funcionalidades
 
 - **Cálculo de Couvert Artístico**: Permite adicionar o valor do couvert artístico.
